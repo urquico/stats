@@ -1,0 +1,101 @@
+customer,gender,bill,food ,label1,service,label2
+1,Male,2117,Very Good,3,Not Good,1
+2,Male,7232,Not Good,1,Excellent,4
+3,Male,9156,Very Good,3,Good,2
+4,Male,8302,Good,2,Good,2
+5,Male,5305,Not Good,1,Not Good,1
+6,Male,2631,Not Good,1,Good,2
+7,Male,7360,Excellent,4,Very Good,3
+8,Male,4974,Good,2,Very Good,3
+9,Male,7437,Excellent,4,Excellent,4
+10,Female,4525,Very Good,3,Not Good,1
+11,Female,4020,Excellent,4,Excellent,4
+12,Female,9351,Not Good,1,Not Good,1
+13,Female,1340,Not Good,1,Excellent,4
+14,Female,3023,Excellent,4,Excellent,4
+15,Female,4334,Not Good,1,Good,2
+16,Female,1032,Very Good,3,Excellent,4
+17,Female,6885,Very Good,3,Very Good,3
+18,Female,2706,Very Good,3,Very Good,3
+19,Female,1106,Excellent,4,Excellent,4
+20,Female,4000,Very Good,3,Excellent,4
+21,Female,8541,Not Good,1,Very Good,3
+22,Female,1148,Very Good,3,Excellent,4
+23,Female,5338,Very Good,3,Not Good,1
+24,Male,1601,Very Good,3,Good,2
+25,Male,9453,Excellent,4,Excellent,4
+26,Male,5736,Excellent,4,Very Good,3
+27,Male,6965,Good,2,Very Good,3
+28,Female,9759,Not Good,1,Very Good,3
+29,Female,1005,Very Good,3,Excellent,4
+30,Female,1675,Excellent,4,Not Good,1
+31,Female,3119,Not Good,1,Not Good,1
+32,Female,9018,Very Good,3,Not Good,1
+33,Female,6511,Not Good,1,Excellent,4
+34,Female,4440,Good,2,Excellent,4
+35,Male,2206,Not Good,1,Excellent,4
+36,Male,5502,Not Good,1,Good,2
+37,Male,2212,Excellent,4,Not Good,1
+38,Male,7972,Good,2,Good,2
+39,Female,4512,Excellent,4,Not Good,1
+40,Female,1898,Very Good,3,Excellent,4
+41,Female,9810,Excellent,4,Not Good,1
+42,Female,9008,Not Good,1,Excellent,4
+43,Female,4245,Excellent,4,Good,2
+44,Female,5543,Excellent,4,Good,2
+45,Female,8846,Excellent,4,Not Good,1
+46,Female,1771,Very Good,3,Not Good,1
+47,Female,7419,Very Good,3,Excellent,4
+48,Female,1350,Not Good,1,Very Good,3
+49,Female,2077,Excellent,4,Not Good,1
+50,Female,5660,Good,2,Good,2
+51,Female,2283,Good,2,Very Good,3
+52,Male,7112,Excellent,4,Good,2
+53,Male,3373,Good,2,Good,2
+54,Male,4374,Good,2,Very Good,3
+55,Male,9359,Very Good,3,Very Good,3
+56,Male,2142,Good,2,Excellent,4
+57,Male,4950,Excellent,4,Very Good,3
+58,Male,5781,Very Good,3,Very Good,3
+59,Male,1573,Good,2,Good,2
+60,Female,5662,Very Good,3,Good,2
+61,Female,8475,Good,2,Good,2
+62,Female,1857,Very Good,3,Not Good,1
+63,Female,6488,Good,2,Good,2
+64,Female,9833,Good,2,Excellent,4
+65,Male,4391,Excellent,4,Good,2
+66,Male,4621,Very Good,3,Not Good,1
+67,Male,1195,Not Good,1,Very Good,3
+68,Male,6616,Good,2,Very Good,3
+69,LGBTQ,2134,Excellent,4,Not Good,1
+70,Male,5592,Not Good,1,Good,2
+71,Male,1338,Very Good,3,Excellent,4
+72,Female,9137,Very Good,3,Very Good,3
+73,Female,2880,Not Good,1,Good,2
+74,Female,5393,Very Good,3,Not Good,1
+75,Female,2862,Very Good,3,Not Good,1
+76,Female,1747,Not Good,1,Very Good,3
+77,Male,2976,Not Good,1,Excellent,4
+78,Male,2951,Very Good,3,Not Good,1
+79,LGBTQ,4352,Good,2,Not Good,1
+80,LGBTQ,5016,Very Good,3,Not Good,1
+81,LGBTQ,5726,Very Good,3,Very Good,3
+82,LGBTQ,8096,Excellent,4,Very Good,3
+83,LGBTQ,8560,Good,2,Not Good,1
+84,Female,2482,Good,2,Good,2
+85,Female,3986,Very Good,3,Not Good,1
+86,Female,6380,Very Good,3,Not Good,1
+87,Female,2334,Very Good,3,Excellent,4
+88,Female,4985,Not Good,1,Very Good,3
+89,Female,4014,Not Good,1,Good,2
+90,Female,3313,Excellent,4,Not Good,1
+91,Male,8912,Not Good,1,Excellent,4
+92,Male,7580,Not Good,1,Very Good,3
+93,Male,8374,Not Good,1,Not Good,1
+94,Male,2248,Good,2,Not Good,1
+95,Female,8156,Good,2,Not Good,1
+96,Female,5419,Excellent,4,Excellent,4
+97,Female,5091,Not Good,1,Excellent,4
+98,Female,7756,Excellent,4,Not Good,1
+99,Female,5555,Good,2,Very Good,3
+100,Male,2420,Not Good,1,Very Good,3
